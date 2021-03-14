@@ -1,3 +1,1 @@
-# Hello
-
-# hi
+Learning git from https://www.youtube.com/watch?v=DVRQoVRzMIY
